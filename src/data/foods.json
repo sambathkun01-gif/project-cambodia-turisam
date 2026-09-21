@@ -1,0 +1,16 @@
+{
+  "dishes": [
+    { "name": "Fish Amok", "khmer": "អាម៉ុកត្រី", "desc": "Cambodia's national dish — tender fish curry steamed in banana leaves with coconut milk, kroeung, and mild spices.", "descKh": "អាម៉ុកត្រីជាម្ហូបជាតិរបស់កម្ពុជា ដែលចំហុយត្រីទន់ក្នុងស្លឹកចេកជាមួយទឹកដូង គ្រឿង និងគ្រឿងទេសស្រាលៗ។", "image": "/images/food/FishAmok.png", "spicy": "Mild", "spicyKh": "ស្រាល" },
+    { "name": "Kuy Teav", "khmer": "គុយទាវ", "desc": "The beloved breakfast noodle soup — rice noodles in clear pork or beef broth with sliced meat, bean sprouts, and herbs.", "descKh": "គុយទាវជាអាហារពេលព្រឹកដ៏ពេញនិយម មានមីអង្ករក្នុងទឹកស៊ុបថ្លា ជាមួយសាច់ សណ្តែកបណ្តុះ និងបន្លែ។", "image": "/images/food/KuyTeav.png", "spicy": "Mild", "spicyKh": "ស្រាល" },
+    { "name": "Nom Banh Chok", "khmer": "នំបញ្ចុក", "desc": "Khmer rice noodles with green fish gravy, sold every morning by street vendors with baskets on their shoulders.", "descKh": "នំបញ្ចុកជាមីអង្ករខ្មែរជាមួយទឹកប្រហុកត្រីបៃតង ដែលអ្នកលក់តាមផ្លូវលក់រៀងរាល់ព្រឹក។", "image": "/images/food/NomBanhChok.png", "spicy": "Medium", "spicyKh": "មធ្យម" },
+    { "name": "Lok Lak", "khmer": "ឡុកឡាក់", "desc": "Stir-fried beef cubes in oyster sauce, served with rice, tomato-pepper-lime dip, and a fried egg.", "descKh": "ឡុកឡាក់ជាសាច់គោចៀនជាមួយទឹកប្រេងខ្យង បម្រើជាមួយបាយ ទឹកជ្រលក់ប៉េងប៉ោះ ម្រេច ក្រូចឆ្មារ និងពងមាន់ចៀន។", "image": "/images/food/LokLak.png", "spicy": "Mild", "spicyKh": "ស្រាល" },
+    { "name": "Bai Sach Chrouk", "khmer": "បាយសាច់ជ្រូក", "desc": "Grilled pork over rice with pickled vegetables — the most popular street breakfast nationwide.", "descKh": "បាយសាច់ជ្រូកជាសាច់ជ្រូកអាំងដាក់លើបាយជាមួយបន្លែជ្រក់ និងជាអាហារពេលព្រឹកតាមផ្លូវដ៏ពេញនិយម។", "image": "/images/food/BaiSachChrouk.png", "spicy": "Mild", "spicyKh": "ស្រាល" },
+    { "name": "Prahok", "khmer": "ប្រហុក", "desc": "Fermented fish paste — the backbone of Khmer cuisine, used in countless dishes and grilled as a dip.", "descKh": "ប្រហុកជាត្រីប្រឡាក់ដែលជាមូលដ្ឋានសំខាន់នៃម្ហូបខ្មែរ ប្រើក្នុងម្ហូបជាច្រើន និងអាំងធ្វើជាទឹកជ្រលក់។", "image": "/images/food/Prahok.png", "spicy": "Strong Flavor", "spicyKh": "រសជាតិខ្លាំង" }
+  ],
+  "drinks": [
+    { "name": "Iced Coffee", "khmer": "កាហ្វេទឹកកក", "desc": "Strong dark coffee brewed with sweetened condensed milk, poured over ice.", "descKh": "កាហ្វេខ្មៅខ្លាំងឆុងជាមួយទឹកដោះគោខាប់ផ្អែម ហើយចាក់លើទឹកកក។" },
+    { "name": "Sugar Cane Juice", "khmer": "ទឹកអំពៅ", "desc": "Freshly pressed with a squeeze of lime, served over ice from street carts.", "descKh": "ទឹកអំពៅច្របាច់ស្រស់ជាមួយក្រូចឆ្មារ និងបម្រើលើទឹកកកតាមរទេះតាមផ្លូវ។" },
+    { "name": "Palm Wine", "khmer": "ទឹកត្នោតជូរ", "desc": "Traditional fermented sap of the sugar palm tree, mildly sweet with a gentle kick.", "descKh": "ស្រាត្នោតជាទឹកត្នោតដែលបានបំប៉នតាមប្រពៃណី មានរសជាតិផ្អែមស្រាល និងមានជាតិអាល់កុល។" },
+    { "name": "Coconut Water", "khmer": "ទឹកដូង", "desc": "Sold fresh on the street — the vendor machetes it open right in front of you.", "descKh": "ទឹកដូងស្រស់លក់តាមផ្លូវ ដែលអ្នកលក់កាប់បើកដូងឱ្យអ្នកភ្លាមៗ។" }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Apsara Dance",
+    "khmer": "របាំអប្សរា",
+    "image": "/images/culture/ApsaraDance.png",
+    "text": "The classical dance of Cambodia dates back over a thousand years to the Angkorian court. Dancers wear elaborate golden headdresses and silk costumes, performing graceful gestures that depict scenes from Hindu and Buddhist mythology. Inscribed on the UNESCO Intangible Cultural Heritage list in 2003.",
+    "textKh": "របាំបុរាណកម្ពុជាមានប្រវត្តិជាងមួយពាន់ឆ្នាំ តាំងពីរាជវាំងអង្គរ។ អ្នករាំពាក់មកុដមាស និងសម្លៀកបំពាក់សូត្រ បង្ហាញកាយវិការដ៏ទន់ភ្លន់ពីទេវកថាហិណ្ឌូ និងពុទ្ធសាសនា។"
+  },
+  {
+    "title": "Buddhism & Pagodas",
+    "khmer": "ព្រះពុទ្ធសាសនា",
+    "image": "/images/culture/Buddhism&Pagodas.png",
+    "text": "Theravada Buddhism is the state religion, practiced by over 95% of the population. Golden pagodas dot every town and village. Monks in saffron robes are a daily sight, and visitors are welcome at pagodas — dress modestly, remove shoes, and never point feet toward Buddha statues.",
+    "textKh": "ព្រះពុទ្ធសាសនាថេរវាទជាសាសនារបស់រដ្ឋ ដែលប្រជាជនជាង៩៥ភាគរយប្រតិបត្តិ។ វត្តពណ៌មាសមាននៅគ្រប់ទីក្រុង និងភូមិ។ សូមស្លៀកពាក់សមរម្យ ដោះស្បែកជើង និងកុំចង្អុលជើងទៅព្រះពុទ្ធបដិមា។"
+  },
+  {
+    "title": "Traditional Festivals",
+    "khmer": "បុណ្យប្រពៃណី",
+    "image": "/images/culture/TraditionalFestivals.png",
+    "text": "Khmer New Year (April) fills the streets with games and water blessings. The Water Festival (November) sees boat races on the Tonle Sap in Phnom Penh. Pchum Ben (September–October) honors ancestors, when families bring offerings to pagodas at dawn.",
+    "textKh": "ចូលឆ្នាំខ្មែរ ខែមេសា ពោរពេញដោយល្បែង និងពរជ័យទឹក។ បុណ្យអុំទូក ខែវិច្ឆិកា មានការប្រណាំងទូកនៅទន្លេសាបក្នុងភ្នំពេញ។ បុណ្យភ្ជុំបិណ្ឌជាការគោរពបុព្វបុរសដោយនាំចង្ហាន់ទៅវត្តនៅពេលព្រឹក។"
+  },
+  {
+    "title": "Arts & Handicrafts",
+    "khmer": "សិល្បៈ និងរបស់របរ",
+    "image": "/images/culture/Arts&Handicrafts.png",
+    "text": "Cambodia is renowned for silk weaving, particularly the golden ikat of Takeo, stone carving following Angkorian traditions, silverwork, and lacquerware. Artisans Angkor in Siem Reap trains young craftspeople in these traditional skills and welcomes visitors to its workshops.",
+    "textKh": "កម្ពុជាល្បីខាងតម្បាញសូត្រ ជាពិសេសសូត្រលំនាំមាសរបស់តាកែវ ការឆ្លាក់ថ្មតាមប្រពៃណីអង្គរ គ្រឿងប្រាក់ និងគំនូរលាបម្រ័ក្សណ៍។ សិប្បករអង្គរនៅសៀមរាបបណ្តុះបណ្តាលយុវជនក្នុងជំនាញបុរាណទាំងនេះ។"
+  }
+]

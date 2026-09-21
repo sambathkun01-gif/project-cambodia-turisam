@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background-color: #FAF7F0;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.dark-mode {
+  background-color: #17202a;
+  color: #f5f1e8;
+}
+
+.dark-mode .bg-base-200 {
+  background-color: #253341;
+}
+
+.dark-mode .bg-base-100,
+.dark-mode .bg-white {
+  background-color: #1f2b36;
+}
+
+.dark-mode .text-khmer-navy {
+  color: #f5f1e8;
+}
+
+.dark-mode .text-gray-600,
+.dark-mode .text-gray-700,
+.dark-mode .text-gray-500 {
+  color: #d4dbe2;
+}
+
+.dark-mode .text-gray-400,
+.dark-mode .text-gray-300 {
+  color: #aebbc7;
+}
+
+.dark-mode .border-gray-300 {
+  border-color: #526273;
+}
+
+.dark-mode .input,
+.dark-mode .select,
+.dark-mode textarea {
+  background-color: #1f2b36;
+  border-color: #526273;
+  color: #f5f1e8;
+}
+
+.dark-mode .input::placeholder,
+.dark-mode textarea::placeholder {
+  color: #aebbc7;
+}
+
+.dark-mode .card,
+.dark-mode article,
+.dark-mode aside {
+  color: #f5f1e8;
+}
+
+/* Gold underline on hover for nav links */
+.nav-link {
+  position: relative;
+}
+.nav-link::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 4px;
+  width: 0;
+  height: 2px;
+  background: #D4AF37;
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
+.nav-link:hover::after {
+  width: 80%;
+}
