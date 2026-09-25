@@ -10,7 +10,7 @@ const { t } = useLanguage()
     <div class="container mx-auto px-4 py-12 grid grid-cols-1 md:grid-cols-3 gap-10">
       <div>
         <div class="flex items-center gap-3 mb-4">
-          <img src="/flag/cambodia.svg" alt="Cambodia flag" class="h-8 w-auto" />
+          <img src="../../public/images/flag/image.png" alt="Cambodia flag" class="h-8 w-auto" />
           <p class="font-bold text-lg tracking-wide">CAMBODIA TOURISM</p>
         </div>
         <p class="text-white/70 text-sm leading-relaxed">
